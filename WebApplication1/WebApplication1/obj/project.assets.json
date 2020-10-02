@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\FLOWBID\\.nuget\\packages\\": {}
+    "C:\\Users\\Issam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FLOWBID\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "G:\\ECHOL\\Cours\\ENV Tr\\TP 1\\Appweb\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\FLOWBID\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\FLOWBID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FLOWBID\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "projectPath": "G:\\ECHOL\\Cours\\ENV Tr\\TP 1\\Appweb\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\Issam\\.nuget\\packages\\",
+      "outputPath": "G:\\ECHOL\\Cours\\ENV Tr\\TP 1\\Appweb\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\FLOWBID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Issam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
